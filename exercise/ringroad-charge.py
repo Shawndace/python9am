@@ -1,13 +1,15 @@
-print("1. Kalanki to swayambhu")
-print("2. swayambhu to buspark")
-print("3. buspark to chabel")
-print("4. chabel to satdobato")
-print("5. satdobato to kalanki")
+print("----Ring Road Bus fare service----")
+print("Please select options: ")
+print("1.Kalanki-swayambhu\n2.Swayambhu to Gongabu\n3.Gongabu to kalanki")
+charge1 = 0
 
-trip_1  = input("Enter option number")
-
-if trip_1 == 1:
-    print("15 rs")
-
-
-
+option1 = int(input("Please enter your path: "))
+if option1 == 1:
+      charge1 += 15
+elif option1 == 2:
+      charge1 += 15
+elif option1 == 3:
+      charge1 += 15
+else:
+      print("No route")
+      exit()
