@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a12e9cda-3797-4cd9-8cce-107a4c029774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OddEven-check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-Result.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contitionalStatement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ncell-bonus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ringroad-charge.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddEven-check.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/OddEven-check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-Result.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/Student-Result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ncell-bonus.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/ncell-bonus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ringroad-charge.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/ringroad-charge.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +32,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\python9am\exercise" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="datatype" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
