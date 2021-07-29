@@ -23,4 +23,9 @@
     -if
     -else
     -elif
-    -nested if
+    -nested if else statements
+
+#Day 6 : LOOP
+    -for
+    -while
+    -nested loop

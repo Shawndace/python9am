@@ -55,3 +55,8 @@ print("=============================")
 #     print("Distiction")
 # else:
 #     print("Fail")
+
+
+# nep = float(input("Enter marks of nepali"))
+# eng = float(input("Enter marks of english"))
+
