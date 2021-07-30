@@ -16,23 +16,34 @@
 # for name in users2:
 #     for nam in name:
 #         print(nam)
-
+#
 # for x in range(20):
 #     print(x)
-
+#
 # x = 1
 #
 # while x < 10:
 #     print(x, end=',')
 #     x += 1
 #
+#
+# increment = 1
+# num = int(input("Enter a number of time u wanna loop: "))
+#
+# while increment <= num:
+#     if increment == 3:
+#         print(increment)
+#         break
+#
+#     increment += 1
 
-increment = 1
-num = int(input("Enter a number of time u wanna loop: "))
+users = [
+    ['ram', 'shyam', 'bam', 'kam'],
+    ['ram', 'shyam', 'bam', 'kam'],
+    ['ram', 'shyam', 'bam', 'kam'],
+    ['ram', 'shyam', 'bam', 'kam']
+        ]
 
-while increment <= num:
-    if increment == 3:
-        print(increment)
-        break
-
-    increment += 1
+for name in users:
+    for showName in name:
+        print(showName)

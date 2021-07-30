@@ -34,3 +34,4 @@ while d <= 40:
     d += 4
     counter4 += 1
 
+# TRY WITH FOR LOOP
