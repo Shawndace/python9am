@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a12e9cda-3797-4cd9-8cce-107a4c029774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise-function/simpleintrest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise-function/data_rep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise-function/student_mark.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise-loop/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-loop/login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise-loop/student-result2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-loop/student-result2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-function/simpleintrest.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-function/simpleintrest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
