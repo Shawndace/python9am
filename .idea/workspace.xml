@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a12e9cda-3797-4cd9-8cce-107a4c029774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/music.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/chinese.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/english.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/nepali.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python9am.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python9am.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/file-handling/intro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
