@@ -1,17 +1,20 @@
-# handle = open('record.txt', 'r')
-# handle.write('We are learning file handling......')
-# handle.close()
-
-# fs = open('record.txt', 'r')
+# handle = open('record.txt', 'a')
+# handle.write("Hey this is python")
+# handle.write("This is python okayyy")
 #
-# # print(fs.read())
-# # print(fs.readlines())
-# print(fs.readline())
+# obj = open('studentName.txt', 'w')
+# obj.write("Am learning pythonn")
+# handle.close()
+# obj.close()
+#
+# obj = open('record.txt', 'r')
+# print(obj.readlines())
+# # print(obj.readline())
+# # print(obj.read())
 
 file = open('record.txt', 'a')
-name = input("Enter your name: ")
-
-file.write(name)
+username = int(input("Enter your name: "))
+file.write(f"{username}")
 file.write('\n')
 
 file.close()

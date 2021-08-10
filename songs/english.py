@@ -1,3 +1,2 @@
-
-def english():
-    return "English song"
+def playenglish():
+    return "English music playing"

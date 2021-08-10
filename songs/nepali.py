@@ -1,2 +1,2 @@
-def nepali():
-    return "Nepali song"
+def playnepali():
+    return "nepali music playing"

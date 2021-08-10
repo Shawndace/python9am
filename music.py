@@ -1,4 +1,5 @@
+
 from songs import *
 
-# print(nepali.nepali())
-
+print(nepali.playnepali())
+print(english.playenglish())

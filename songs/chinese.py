@@ -1,3 +1,2 @@
-
-def chinese():
-    return "chinese song"
+def playchinese():
+    return "Chinese music playing"
