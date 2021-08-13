@@ -52,5 +52,7 @@ def login():
 question = input("Do you have an account? y/n ?")
 if question == 'y':
     login()
-else:
+elif question == 'n':
     register()
+else:
+    exit()

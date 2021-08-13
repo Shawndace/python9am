@@ -2,15 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a12e9cda-3797-4cd9-8cce-107a4c029774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise-filehandling/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision8-11/exercise-function/data-rep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision8-11/exercise-function/simpleIntrest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision8-11/exercise-function/student_mark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision8-11/exercise1/computer-bazar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision8-11/exercise1/ncellbonus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision8-11/exercise1/oddevenCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision8-11/exercise1/rindroad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision8-11/exercise1/student-result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file-handling/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/file-handling/intro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file-handling/record.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file-handling/record.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music.py" beforeDir="false" afterPath="$PROJECT_DIR$/music.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/songs/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/chinese.py" beforeDir="false" afterPath="$PROJECT_DIR$/songs/chinese.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/english.py" beforeDir="false" afterPath="$PROJECT_DIR$/songs/english.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/songs/nepali.py" beforeDir="false" afterPath="$PROJECT_DIR$/songs/nepali.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contitionalStatement.py" beforeDir="false" afterPath="$PROJECT_DIR$/contitionalStatement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-filehandling/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-filehandling/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-function/data_rep.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-function/data_rep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/OddEven-check.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-ifStatement/OddEven-check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/Student-Result.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-ifStatement/Student-Result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/computer-bazar.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-ifStatement/computer-bazar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/computer-bazar2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-ifStatement/computer-bazar2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/ncell-bonus.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-ifStatement/ncell-bonus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/ringroad-charge.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-ifStatement/ringroad-charge.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

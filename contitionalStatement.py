@@ -1,6 +1,6 @@
-x = 10
-y = 20
-z = 30
+# x = 10
+# y = 20
+# z = 30
 # if x > y:
 #    print("X is large")
 # else:
