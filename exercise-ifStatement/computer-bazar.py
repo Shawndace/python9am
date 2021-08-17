@@ -1,65 +1,65 @@
-print("==================================")
-print("=======Computer Bazaar============")
+print("--- COMPUTER BAZAR ---")
+print("Please select any option: ")
+print("1.Dell - 20000\n2.Toshiba - 40000\n3.MAC - 50000")
 
-
-dell = 20000
-toshiba = 30000
-mac = 50000
-qt = 0
-total = 0
-del_charge = 0
-pack_charge = 0
-vat = 0
-
-print("=======Product list===============")
-print("1. Dell - 20,000 2. Toshiba - 30,000 3. MAC - 50,000 ")
-option1 = int(input("Enter any option: "))
-
-if option1 == 1:
-    qt += int(input("Enter quantity: "))
-    total += dell * qt
-elif option1 == 2:
-    qt += int(input("Enter quantity: "))
-    total += toshiba * qt
-elif option1 == 3:
-    qt += int(input("Enter quantity: "))
-    total += mac * qt
+optionDevice = int(input(""))
+if optionDevice == 1:
+    quantity = int(input("Enter quantity: "))
+    total = quantity * 20000
+elif optionDevice == 2:
+    quantity = int(input("Enter quantity: "))
+    total = quantity * 40000
+elif optionDevice == 3:
+    quantity = int(input("Enter quantity: "))
+    total = quantity * 50000
 else:
-    print("Enter quantity")
+    print("Select proper option! ")
+    exit()
+print("--- Delivery Option ---")
+print("Enter delivery option: ")
+print("1.Home delivery-100\n2.Pickup - Free")
+
+deliveryOption = int(input(""))
+if deliveryOption == 1:
+    delivery_charge = 100
+
+print("--- Packing Options ---")
+print("Enter packing options: ")
+print("1. Plastic 500\n2. Bag 1000\n3. Gift 1500\n4. None")
+
+packingOption = int(input(""))
+if packingOption == 1:
+    packingCharge = 500
+elif packingOption == 2:
+    packingCharge = 1000
+elif packingOption == 3:
+    packingCharge = 1500
+elif packingOption ==4:
+    packingCharge = 0
+else:
+    print("select proper option!")
     exit()
 
-print("Delivery option: ")
-print("1. Home - Rs.1000 2. Pickup - Free")
-option2 = int(input("Enter delivery option: "))
+print("--- Delivery Place ---")
+print("1. KTM-13%VAT 2. LAL-Free 3. BKT-FREE")
+optionPlace = int(input(""))
 
-if option2 == 1:
-    del_charge += 1000
+if optionPlace == 1:
+    vat = total * 0.13
 
-print("Select packing options: ")
-print("1. Plastic-Rs500 2. Bag-Rs1000 3.Gift Box-Rs5000 4.None")
-option3 = int(input("Enter any packing options: "))
+grand_total = vat + packingCharge + delivery_charge + total
 
-if pack_charge == 1:
-    pack_charge += 500
-elif pack_charge == 2:
-    pack_charge += 1000
-elif pack_charge == 3:
-    pack_charge += 5000
-else:
-    pack_charge += 0
+print(grand_total)
 
-print("Select locations: ")
-print("1. KTM-13% VAT 2.LTP-Free 3.Bkt-Free")
-option4 = int(input("Enter location options: "))
+print("------VOUCHER-------")
 
-if option4 == 1:
-    vat += total * 0.13
-
-grand_total = total + del_charge + pack_charge + vat
-
-print("===============================")
-print(f"Device: {option1}")
-print(f"quantity: {qt}")
-print(f"Total cost for device: {total}")
-print(f"Vat amount: {vat}")
+print(f"Total cost of laptop: {total}")
+print(f"delivery charge: {delivery_charge}")
+print(f"packing cost: {packingCharge}")
+print(f"vat included: {vat}")
 print(f"Grand total: {grand_total}")
+
+
+
+
+

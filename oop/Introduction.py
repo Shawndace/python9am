@@ -9,11 +9,14 @@
 # print(obj.test())
 
 class Introduction:
-    x = 10
-
+    def __init__(self):
+        pass
+        # return "I am introoo"
+    def __str__(self):
+        return "I am intro"
     def test(self):
-        print(self.x)
-
+        print("Python")
 obj = Introduction()
+print(obj)
 obj.test()
 
