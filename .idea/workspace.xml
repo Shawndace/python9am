@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a12e9cda-3797-4cd9-8cce-107a4c029774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise-function/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise-oop/Mobile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise-oop/StudentInfo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise-oop/Vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise-oop/computerBazar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise-oop/oopYoutube.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/Mobile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise-ifStatement/computer-bazar3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision8-15/exercise-function/data-rep.py" beforeDir="false" afterPath="$PROJECT_DIR$/Revision8-18/exercise-function/data-rep.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision8-15/exercise-function/simpleIntrest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Revision8-18/exercise-function/simpleIntrest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision8-15/exercise-function/student_mark.py" beforeDir="false" afterPath="$PROJECT_DIR$/Revision8-18/exercise-function/student_mark.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision8-15/exercise1/computer-bazar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Revision8-18/exercise1/computer-bazar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision8-15/exercise1/ncellbonus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Revision8-18/exercise1/ncellbonus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision8-15/exercise1/oddevenCheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/Revision8-18/exercise1/oddevenCheck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision8-15/exercise1/rindroad.py" beforeDir="false" afterPath="$PROJECT_DIR$/Revision8-18/exercise1/rindroad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision8-15/exercise1/student-result.py" beforeDir="false" afterPath="$PROJECT_DIR$/Revision8-18/exercise1/student-result.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision8-15/file-handeling/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Revision8-18/file-handeling/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision8-15/file-handeling/record.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Revision8-18/file-handeling/record.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision8-15/oop/student-result.py" beforeDir="false" afterPath="$PROJECT_DIR$/Revision8-18/oop/student-result.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculate.py" beforeDir="false" afterPath="$PROJECT_DIR$/funtion/calculate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise-function/simpleintrest.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-function/simpleintrest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise-function/student_mark.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-function/student_mark.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/funtion/function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funtion2.py" beforeDir="false" afterPath="$PROJECT_DIR$/funtion2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/Introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Introduction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
