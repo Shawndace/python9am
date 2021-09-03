@@ -1,25 +1,21 @@
 def student_marks():
-        nep = int(input("Enter nepali marks: "))
-        eng = int(input("Enter english marks: "))
-        math = int(input("Enter math marks: "))
-        sci = int(input("Enter sci marks: "))
-        pop = int(input("Enter pop marks: "))
-        return [nep, eng, math, sci, pop]
-
+    nep = int(input("Enter nepali marks: "))
+    eng = int(input("Enter english marks: "))
+    return [nep, eng]
 
 def calculate_tot():
     total = student_marks()
     a = total[0]
     b = total[1]
-    c = total[2]
-    d = total[3]
-    e = total[4]
-    plus = a + b + c + d + e
-    return plus
+    sum = a + b
+    return sum
 
 def calculate_perc():
-    perc = calculate_tot() / 5
-    return perc
+    percent = calculate_tot()/2
+    return percent
+
+# print(f"percentage: {calculate_perc()}")
+
 
 def calculate_div():
     perc = calculate_perc()
@@ -35,12 +31,10 @@ def calculate_div():
     else:
         divison += 'pass'
 
+
 def display():
-    print(calculate_tot())
-    # print(calculate_perc())
-    # print(calculate_div())
+    print(f"total is: {calculate_tot()} ")
+    print(f"percentage is: {calculate_perc()}")
+    # print(f"divison is: {calculate_div()}")
 
 display()
-
-
-

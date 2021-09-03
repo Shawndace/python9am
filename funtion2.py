@@ -9,7 +9,7 @@
 #     print(x)
 #
 # test()
-#-----------------------------
+# -----------------------------
 # def test():
 #     """
 #     This is test funtion
@@ -36,13 +36,17 @@
 # print(calculate.add(4, 5))
 
 # * all
-# from calculate import add as sum
+# from funtion.calculate import add as sum
 # print(sum(2, 3))
 # print(sum(5, 2))
 
 # from lib import demo
 # print(demo.test())
+
 # from lib.demo import test
+# print(test())
+
 from lib import *
-print(demo.test())
-print(intro.get())
+# print(intro.get())
+
+

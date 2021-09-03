@@ -1,22 +1,22 @@
 # class Introduction:
+#
 #     x = 10
 #
-#     def test(self):
-#         return "welcome to oop"
-# obj = Introduction()
+#     def add(self, x, y):
+#         print(x + y)
 #
-# print(obj.x)
-# print(obj.test())
+# obj = Introduction()
+# # print(obj.get())
+# obj.add(10,20)
 
 class Introduction:
+
     def __init__(self):
-        pass
-        # return "I am introoo"
+        print("This is init method")
+
     def __str__(self):
-        return "I am intro"
-    def test(self):
-        print("Python")
+        return "I am introoo"
+
+
 obj = Introduction()
 print(obj)
-obj.test()
-
