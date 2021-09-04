@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a12e9cda-3797-4cd9-8cce-107a4c029774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise-ifStatement/computer-bazar3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise-ifStatement/studentResult2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise-loop/studentResult3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contitionalStatement.py" beforeDir="false" afterPath="$PROJECT_DIR$/contitionalStatement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-ifStatement/OddEven-check.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-ifStatement/OddEven-check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-ifStatement/Student-Result.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-ifStatement/Student-Result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-loop/student-result2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-loop/student-result2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

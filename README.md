@@ -33,3 +33,8 @@
 #Function 
 
 # IMPORT----MODULE STUDY FOR NEXT CLASS
+ 
+#File handeling
+
+
+#OOP concepts

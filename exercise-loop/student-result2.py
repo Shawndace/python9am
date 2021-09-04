@@ -3,7 +3,7 @@ increment = 1
 student_mark = []
 
 while increment <= num:
-    print(f"----Student {increment}")
+    print(f"----Student {increment}----")
     for marks in range(1):
         nep = float(input("Enter nepali marks: "))
         eng = float(input("Enter english marks: "))
@@ -12,6 +12,7 @@ while increment <= num:
     increment += 1
 
 student = []
+# student_mark = [[2,3],[3,4]]
 for s_mark in student_mark:
     total_mark = 0
     for tot in s_mark:

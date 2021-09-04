@@ -35,28 +35,9 @@ elif perc > 75 and perc < 100:
     division += "distinction"
 
 print("=============================")
+print(f"Total marks obtained is: {total}")
+print(f"Percentage: {perc} %")
+print(f"divison: {division}")
 
 
-# HOW TO VALID MARKS?
-
-# total = nep + eng + mat + sci + pop
-# perc = (total / 5)
-#
-# print(f"Total marks obtained is: {total}")
-# print(f"Percentage: {perc} %")
-#
-# if perc > 35 and perc < 45:
-#     print("Third division")
-# elif perc > 45 and perc < 60:
-#     print("second div")
-# elif perc>60 and perc<75:
-#     print("first div")
-# elif perc>75 and perc<100:
-#     print("Distiction")
-# else:
-#     print("Fail")
-
-
-# nep = float(input("Enter marks of nepali"))
-# eng = float(input("Enter marks of english"))
 

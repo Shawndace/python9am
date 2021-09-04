@@ -34,13 +34,18 @@
 #         print(increment)
 #         increment += 1
 
-users = [
-    ['ram', 'shyam', 'bam', 'kam'],
-    ['ram', 'shyam', 'bam', 'kam'],
-    ['ram', 'shyam', 'bam', 'kam'],
-    ['ram', 'shyam', 'bam', 'kam']
-        ]
+# users = [
+#     ['ram', 'shyam', 'bam', 'kam'],
+#     ['ram', 'shyam', 'bam', 'kam'],
+#     ['ram', 'shyam', 'bam', 'kam'],
+#     ['ram', 'shyam', 'bam', 'kam']
+#         ]
+#
+# for name in users:
+#     for showName in name:
+#         print(showName)
 
-for name in users:
-    for showName in name:
-        print(showName)
+
+
+
+

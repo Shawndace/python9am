@@ -42,3 +42,28 @@
 #     print("Welcome!!")
 # else:
 #     print("Username or password incorrect")
+
+# x = 360
+# y = 350
+# z = 300
+
+# if x > y and x >z:
+#     print("x is great")
+# elif y > x and y > z:
+#     print("y is great")
+# else:
+#     print("Z is great")
+
+# if x > y:
+#     if x > z:
+#         print("x")
+#     else:
+#         print("z")
+#
+# else:
+#     if y > z:
+#         print("y")
+#     else:
+#         print("z")
+
+
